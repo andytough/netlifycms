@@ -1,4 +1,4 @@
-baseURL = "https://epic-thompson-cb55c1.netlify.com/"
+baseURL = "https://journal.andytough.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Journal"
 theme = "ananke"
