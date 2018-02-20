@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Feb 2018 14:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 01:28:48 +0000</lastBuildDate>
     
 	<atom:link href="https://journal.andytough.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My third post</title>
+      <link>https://journal.andytough.com/posts/2018-02-20-my-third-post/</link>
+      <pubDate>Tue, 20 Feb 2018 01:28:48 +0000</pubDate>
+      
+      <guid>https://journal.andytough.com/posts/2018-02-20-my-third-post/</guid>
+      <description>The third post.</description>
+    </item>
     
     <item>
       <title>My First Post</title>
